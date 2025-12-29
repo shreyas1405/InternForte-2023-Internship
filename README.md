@@ -302,15 +302,6 @@ During the internship, I worked on several real-world projects that demonstrate 
    - Security Event Correlation
    - Anomaly Detection Systems
 
-### Inspiring Examples from Industry
-
-**Similar Work by Professionals**:
-- [Sohan Kanna - Cybersecurity & DevOps Professional](https://github.com/sohankanna)
-  - SOC-Analyst-Portfolio: Security operations work samples
-  - Malware-Analysis-Collection: Technical security analysis
-  - cloudlog-sentinel: Cloud-native SIEM implementation
-  - TryHackMe-Walkthroughs: Learning documentation
-
 ---
 
 ## 📖 Documentation Standards
